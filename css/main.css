@@ -17,16 +17,16 @@
   font-weight: 500;
 }
 .f200{
-  position: relative;
+  /* position: relative; */
   font-weight:200;
 }
 .html::before{
   color: black;
   content: '\e675';
-  position: absolute;
   
 }
 .icons::before{
+  position: absolute;
   content: '\e900';
   
 }
