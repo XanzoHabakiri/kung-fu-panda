@@ -1,0 +1,10 @@
+@font-face{
+    font-family: 'icons';
+    src: url('../fonts/icomoon.ttf') format('truetype');
+    font-weight: 500;
+}
+@font-face{
+    font-family: 'icons';
+    src: url('../fonts/html.ttf') format('truetype');
+    font-weight: 200;
+}
